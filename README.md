@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **NGS analysis**
 
--  📝 I regularly do problem solving tasks on [Rosalind.](Rosalind.)
+-  📝 I regularly do problem solving tasks on Rosalind.
 
 - ⚡ Interesting fact **I've done 3 solo skydiving jumps.**
 
