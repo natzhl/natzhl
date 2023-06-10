@@ -4,7 +4,7 @@
 **natzhl/natzhl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 <h1 align="center">Hi 👋, I'm Natalia Zheleznyak</h1>
-<h3 align="center">I've Specialist's Degree in Bioinformatics. 
+<h3 align="center">I've Specialist's Degree in Bioinformatics (equivalent to Master's). 
   
   Data Science, NGS analysis, computational biology are my fields of interest.</h3>
 
