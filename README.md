@@ -12,6 +12,10 @@
 
 - 🌱 I’m currently learning **NGS analysis**
 
+-  📝 I regularly do problem solving tasks on [Rosalind.](Rosalind.)
+
+- ⚡ Interesting fact **I've done 3 solo skydiving jumps.**
+
 - 📫 How to reach me **natali.zhl99@gmail.com**
 
 
