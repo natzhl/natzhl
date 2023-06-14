@@ -14,7 +14,7 @@
 
 -  📝 I regularly do problem solving tasks on [Rosalind](https://rosalind.info/users/natzhl/).
 
-- ⚡ Interesting fact **I've done 3 solo skydiving jumps.**
+- ⚡ Interesting fact **I've done 3 solo skydiving jumps**
 
 - 📫 How to reach me **natali.zhl99@gmail.com**
 
