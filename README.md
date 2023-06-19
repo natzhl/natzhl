@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **NGS analysis**
 
--  📝 I regularly do problem solving tasks on [Rosalind](https://rosalind.info/users/natzhl/).
+-  📝 I regularly do problem solving tasks on [Rosalind](https://rosalind.info/users/natzhl/)
 
 - ⚡ Interesting fact **I've done 3 solo skydiving jumps**
 
