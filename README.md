@@ -6,11 +6,11 @@
 <h1 align="center">Hi 👋, I'm Natalia Zheleznyak</h1>
 <h3 align="center">I've Specialist's Degree in Bioinformatics (equivalent to Master's). 
   
-  Data Science, Bioinformatics and algorithms are my fields of interest.</h3>
+  Data Science, Bioinformatics and maching learning are my fields of interest.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=natzhl&label=Profile%20views&color=0e75b6&style=flat" alt="natzhl" /> </p>
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **R**
 
 -  📝 I regularly do problem solving tasks on [Rosalind](https://rosalind.info/users/natzhl/)
 
