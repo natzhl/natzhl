@@ -10,7 +10,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=natzhl&label=Profile%20views&color=0e75b6&style=flat" alt="natzhl" /> </p>
 
-- 🌱 I’m currently learning **R**
+- 🌱 I’m currently learning **Single Cell Seq Analysis**
 
 -  📝 I regularly do problem solving tasks on [Rosalind](https://rosalind.info/users/natzhl/)
 
