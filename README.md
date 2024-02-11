@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Docker**
 
-- **Transcriptomics and Single Cell RNA-Seq** are the most interesting fields for me
+- 🧬 **Transcriptomics and Single Cell RNA-Seq** are the most interesting fields for me
 
 -  📝 I regularly do problem solving tasks on [Rosalind](https://rosalind.info/users/natzhl/)
 
