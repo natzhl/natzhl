@@ -12,9 +12,7 @@
 
 - 🌱 I’m currently learning **Docker**
 
-- 🧬 **Transcriptomics and Single Cell RNA-Seq** are the most interesting fields for me
-
--  📝 I regularly do problem solving tasks on [Rosalind](https://rosalind.info/users/natzhl/)
+- 🧬 **Machine learning and data science** are the most interesting fields for me
 
 - ⚡ Interesting fact **I've done 3 solo skydiving jumps**
 
